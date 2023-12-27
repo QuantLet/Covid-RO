@@ -1,1 +1,9 @@
+Name of Quantlet: Covid-RO
 
+
+Description: 'Modeling the Covid 19 Infodemic in Romania'
+
+Keywords: 'Covid-19, LDA, Topic Modelling.'
+ 
+Author: Daniel Traian Pele
+Submitted: 2023-12-04
