@@ -1,1 +1,12 @@
 
+Name of Quantlet: SNA
+
+Published in:    Covid-RO
+
+Description:      This code analyzes a network graph to compute and compare node importance using degree, betweenness, and eigenvector centrality measures.
+
+Keywords:         graph theory, network analysis, influence in network, connectivity
+
+Author:           Daniel Traian Pele
+
+Submitted:        
