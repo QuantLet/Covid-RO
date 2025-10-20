@@ -9,4 +9,4 @@ Keywords:         graph theory, network analysis, influence in network, connecti
 
 Author:           Daniel Traian Pele
 
-Submitted:        
+Submitted:        05.01.2024
